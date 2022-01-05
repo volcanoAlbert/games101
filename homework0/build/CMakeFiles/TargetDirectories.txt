@@ -1,0 +1,3 @@
+/home/albert/code/games101/homework1/build/CMakeFiles/rebuild_cache.dir
+/home/albert/code/games101/homework1/build/CMakeFiles/edit_cache.dir
+/home/albert/code/games101/homework1/build/CMakeFiles/Transformation.dir
